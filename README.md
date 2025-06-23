@@ -9,7 +9,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cotibodereau&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" width="60%" />
 </p>
 
+---
 
+<h2 align="center">📈 Estadísticas de GitHub</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cotibodereau&show_icons=true&theme=tokyonight&hide_border=true" width="60%" />
+</p>
 
 ---
 
@@ -30,6 +36,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,cpp,java,git,linux,vscode,bash" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="Haskell" title="Haskell" width="40" height="40" style="margin-left: 10px;" />
 </p>
 
 ---
