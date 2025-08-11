@@ -15,7 +15,7 @@
 #### Tecnologías y Herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,git,linux,vscode,bash" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,spring,maven,docker,html,css,js,git,linux,vscode,bash" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="Haskell" title="Haskell" width="40" height="40" style="margin-left: 10px;" />
 </p>
 
